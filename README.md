@@ -1,26 +1,24 @@
-# cyber-portfolio
-My cybersecurity# Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
-Bienvenue dans mon portfolio d’apprentissage en cybersécurité.  
-Ici, je vais documenter mes progrès, mes writeups, mes notes et mes projets pratiques.
+Welcome to my cybersecurity learning portfolio.  
+Here I will document my progress, writeups, notes, and practical projects.
 
-## 🎯 Objectif
-Devenir une ingénieure en cybersécurité (pentester / SOC Analyst) à travers un apprentissage autonome.
+## 🎯 Goal
+Become a cybersecurity engineer (pentester / SOC Analyst) through self-learning.
 
-## 📂 Contenu du portfolio
-Voici l’organisation prévue :
-- **journal/** → Notes quotidiennes ou hebdomadaires
-- **writeups/** → Rapports TryHackMe, PortSwigger, CTFs
-- **scripts/** → Scripts utiles (Python / Bash)
-- **notes/** → Concepts théoriques (Linux, réseau, web, etc.)
-- **images/** → Screenshots liés aux labs
+## 📂 Portfolio structure
+- **journal/** → Daily or weekly learning notes
+- **writeups/** → TryHackMe, PortSwigger, and CTF reports
+- **scripts/** → Useful scripts (Python / Bash)
+- **notes/** → Theory notes (Linux, Networking, Web, etc.)
+- **images/** → Screenshots for writeups
 
-## ✅ Prochaines étapes
-- Créer un journal d’apprentissage
-- Commencer les labs gratuits (TryHackMe + PortSwigger)
-- Faire les premiers writeups
-- Ajouter mes notes sur Linux et réseau
+## ✅ Next steps
+- Create a learning journal
+- Start free labs (TryHackMe + PortSwigger)
+- Write first writeups
+- Add notes on Linux and Networking
 
 ## 📩 Contact
-Email : *(à remplir)*
- learning journey and projects
+Email: *(to be filled)*
+
